@@ -1,0 +1,3 @@
+# for inference
+streamlit
+pillow
