@@ -12,11 +12,5 @@
 | **Object Detection** | Object Detection models. |
 | **Snake AI** | Q-Learning based model that plays Snake game. |
 | **Image Stitching** | Stitching images using Computer Vision techniques. |
-# Simple-AI-projects-
-# AI-portfolio
-# AI-portfolio
-# AI-portfolio
-# AI-portfolio
-# AI-portfolio
-# AI-portfolio
+
 # AI-portfolio
