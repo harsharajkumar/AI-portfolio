@@ -13,3 +13,4 @@
 | **Snake AI** | Q-Learning based model that plays Snake game. |
 | **Image Stitching** | Stitching images using Computer Vision techniques. |
 # Simple-AI-projects-
+# AI-portfolio
