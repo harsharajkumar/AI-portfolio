@@ -14,3 +14,4 @@
 | **Image Stitching** | Stitching images using Computer Vision techniques. |
 # Simple-AI-projects-
 # AI-portfolio
+# AI-portfolio
