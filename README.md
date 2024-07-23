@@ -4,8 +4,7 @@
 ## Projects
 | Name | Description |
 | ---- | ---- |
-
-| **Deep Learning tools for brain medical images** | Regarding models and accuracy . |
+| **Deep Learning for brain** | Regarding models and accuracy  |
 | **Brain MRI FLAIR Segmentation** | A segmentation project on brain MRI to locate FLAIR. |
 | **Image Classification** | Image Classification models. |
 | **Image Captioning** | An encoder-decoder based model to caption images. |
